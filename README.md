@@ -5,7 +5,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um web developer aprendiz :computer:
 
  🏛️  &nbsp; Estou estudando na **Universidade Federal de Sergipe(UFS)**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos web com intuito de aprendizado
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos web
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dota e filmes de suspense
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssandrev/)](https://www.linkedin.com/in/ssandrev/) 
 | 
