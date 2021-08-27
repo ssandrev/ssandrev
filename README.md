@@ -1,12 +1,13 @@
 # André Souza
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Estou aprendendo ciência de dados e inteligência artificial:computer:
+:computer: Sou apaixonado por resolver problemas utilizando a programação.
+<br/> ⚡ Estou aprendendo ciência e análise de dados e inteligência artificial 
+<br/> 😄 Aficionado por Vida Artificial.
 
  🏛️  &nbsp; Estou estudando na **Universidade Federal de Sergipe(UFS)**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dota e filmes de suspense
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, tiro com arco, Dota e filmes de suspense.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssandrev/)](https://www.linkedin.com/in/ssandrev/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-andrevssouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevssouza@gmail.com)](mailto:andrevssouza@gmail.com)
