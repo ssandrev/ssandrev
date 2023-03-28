@@ -5,8 +5,8 @@
 <br/> ⚡ Estou aprendendo ciência e análise de dados e inteligência artificial 
 <br/> 😄 Aficionado por Vida Artificial.
 
- 🏛️  &nbsp; Estou estudando na **Universidade Federal de Sergipe(UFS)**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos.
+ 🏛️  &nbsp; Formado em Ciência da Computação **Universidade Federal de Sergipe(UFS)**
+ <br/> :purple_heart: &nbsp; Desenvolvedor no laboratório **ICA** da PUC-Rio e Mestrando em Informática, aplicada a Ciência de Dado na **PUC-Rio**
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, tiro com arco, Dota e filmes de suspense.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AndreSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssandrev/)](https://www.linkedin.com/in/ssandrev/) 
 | 
